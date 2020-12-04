@@ -3,16 +3,16 @@
     "name": "WideOrbit",
     "url": "https://www.wideorbit.com",
     "slug": "wide-orbit",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 385,
-    "timeWeek": 379,
-    "timeMonth": 521,
-    "timeYear": 521
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 511,
+    "timeDay": 356,
+    "timeWeek": 372,
+    "timeMonth": 511,
+    "timeYear": 511
   }
 ]
