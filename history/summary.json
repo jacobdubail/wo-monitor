@@ -2,6 +2,7 @@
   {
     "name": "WideOrbit",
     "url": "https://www.wideorbit.com",
+    "icon": "https://favicons.githubusercontent.com/www.wideorbit.com",
     "slug": "wide-orbit",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 620,
-    "timeWeek": 412,
-    "timeMonth": 518,
-    "timeYear": 518
+    "time": 513,
+    "timeDay": 383,
+    "timeWeek": 409,
+    "timeMonth": 513,
+    "timeYear": 513,
+    "dailyMinutesDown": {}
   }
 ]
