@@ -4,17 +4,19 @@
     "url": "https://www.wideorbit.com",
     "icon": "https://favicons.githubusercontent.com/www.wideorbit.com",
     "slug": "wide-orbit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 279,
     "timeWeek": 342,
-    "timeMonth": 383,
+    "timeMonth": 380,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-27": 0
+    }
   }
 ]
